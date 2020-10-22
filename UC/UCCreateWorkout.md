@@ -8,7 +8,7 @@
 (tbd)
 ## 2. Flow of Events
 ### 2.1 Basic Flow
-![Activity Diagram] (https://github.com/ThSilv3r/SweatForSuccess/blob/Jonas/Pictures/OUSC%20Profil.png)
+![] (https://github.com/ThSilv3r/SweatForSuccess/blob/Jonas/Pictures/OUSC%20Profil.png)
 ### 2.2 Narative
     Scenario: Create a workout
     Given: I am logged in
