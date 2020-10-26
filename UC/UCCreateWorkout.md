@@ -11,10 +11,10 @@
 ![Activity Diagram] (https://github.com/ThSilv3r/SweatForSuccess/blob/Jonas/Pictures/UCCreateWorkout.png)
 ### 2.2 Narative
     Scenario: Create a workout
-    Given: I am logged in
-    And: I have opened “Create workout”
-    And: I enter the needed data in the right places
-    And: I click on the save button
+    Given: The user is logged in
+    And: The user has opened “Create workout”
+    And: The user enters the needed data in the right places
+    And: The user clicks on the save button
     Then: “Create workout” should close
 
 ### 2.3 Alternative Flows
