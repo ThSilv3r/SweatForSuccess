@@ -13,10 +13,10 @@ Activity Diagram
 ### 2.2 Narative
       Feature: Profil
       Scenario: Edit your profil data
-      Given: I have opened „profil“
-      And: I am logged in
-      And: I enter Text/Numbers in the text fields
-      And: I click on the safe button
+      Given: The user has opened „profil“
+      And: The user is logged in
+      And: The user enters Text/Numbers in the text fields
+      And: The user clicks on the safe button
       Then: The data should be updated
 
 ### 2.3 Alternative Flows
