@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Software Requirement Specification</title>
+  <title> Software Requirement Specification</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -26,7 +26,6 @@
 </li>
 </ul>
 
-    </div>
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
@@ -210,7 +209,6 @@ TBD</p>
 • Jonas Hirsch<br>
 • Nils Wendland</p>
 
-    </div>
   </div>
 </body>
 
